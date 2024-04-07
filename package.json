@@ -1,0 +1,10 @@
+{
+  "name": "clout_commit",
+  "version": "1.0.0",
+  "description": "github commit graph bot",
+  "scripts": {
+    "fire-lazers": "node index.js"
+  },
+  "author": "jaredwastaken",
+  "license": "ISC"
+}
